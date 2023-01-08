@@ -1,0 +1,13 @@
+{
+  "dev": {
+      "driver": "pg",
+      "user": "postgres",
+      "password": "admin",
+      "host": "localhost",
+      "database": "mydatabase",
+      "port": "5432",
+      "schema": "mydatabase",
+      "multipleStatements": true,
+      "sql-file": true
+  }
+}
